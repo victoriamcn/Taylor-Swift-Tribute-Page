@@ -1,6 +1,12 @@
 # Taylor Swift Tribute Page
 
-## Build a Tribute Page freeCodeCamp Project - Built with HTML and CSS
+## Preview
+
+![preview image for the Taylor Swift Tribute page. Text "Taylor Swift: Signer-Songwriter. Soundtrack of a generation" Photo of Taylor Swift smiling and holding up her 2021 Grammy award.](./taylor-swift-tribute-page.PNG)
+
+## Description
+
+
 
 ## Objective:
 Objective: Build an app that is functionally similar to [this example](https://tribute-page.freecodecamp.rocks/).
@@ -22,6 +28,10 @@ Objective: Build an app that is functionally similar to [this example](https://t
 
 **Note:** Be sure to add `<link rel="stylesheet" href="styles.css">` in your `HTML` to link your stylesheet and apply your `CSS`
 
-## Preview
+## Badges
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![preview image for the Taylor Swift Tribute page. Text "Taylor Swift: Signer-Songwriter. Soundtrack of a generation" Photo of Taylor Swift smiling and holding up her 2021 Grammy award.](./taylor-swift-tribute-page.PNG)
+## Listen to My Favorite Taylor Swift Songs on Spotify
+(![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white))[https://open.spotify.com/playlist/2v77Dq8whATnd2gQJO4pIf?si=8dab51f992944935]
