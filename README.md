@@ -3,7 +3,7 @@
 ## Build a Tribute Page freeCodeCamp Project - Built with HTML and CSS
 
 ## Objective:
-Objective: Build an app that is functionally similar to (https://tribute-page.freecodecamp.rocks/)[https://tribute-page.freecodecamp.rocks/]
+Objective: Build an app that is functionally similar to [this example](https://tribute-page.freecodecamp.rocks/).
 
 ## User Stories: 
 
@@ -24,4 +24,4 @@ Objective: Build an app that is functionally similar to (https://tribute-page.fr
 
 ## Preview
 
-![]()
+![preview image for the Taylor Swift Tribute page. Text "Taylor Swift: Signer-Songwriter. Soundtrack of a generation" Photo of Taylor Swift smiling and holding up her 2021 Grammy award.](./taylor-swift-tribute-page.PNG)
