@@ -5,13 +5,12 @@
 ![preview image for the Taylor Swift Tribute page. Text "Taylor Swift: Signer-Songwriter. Soundtrack of a generation" Photo of Taylor Swift smiling and holding up her 2021 Grammy award.](./taylor-swift-tribute-page.PNG)
 
 ## Description
+Apart of the Responsive Web Design certification, this was the second major project I worked on while working with freeCodeCamp. It's a static web page to pay tribute to the subject of my choosing. I choose Taylor Swift at the time because she had just released her 'Midnights' album and annouced her Eras Tour. The significant dates in her career listed on the site color coordinate with each era of her albums. The image used on the site is from [Billboard.com](https://www.billboard.com/wp-content/uploads/2021/11/Taylor-Swift-2021-grammy-billboard-1548.jpg?w=942&h=623&crop=1&resize=942%2C623).
 
+## Objective
+Build an app that is functionally similar to [this example](https://tribute-page.freecodecamp.rocks/).
 
-
-## Objective:
-Objective: Build an app that is functionally similar to [this example](https://tribute-page.freecodecamp.rocks/).
-
-## User Stories: 
+## User Stories
 
 **Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!**
 
