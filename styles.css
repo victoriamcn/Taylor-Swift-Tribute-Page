@@ -1,0 +1,99 @@
+*{
+font-family: Bodoni MT, Bodoni 72, serif;
+background-color:snow;
+text-size: 12px
+}
+
+h1, p, h2 {
+ color: #212121;
+ text-align: center;
+ padding: 10px 5px 15px 20px;
+ border-bottom:4px solid #212121;
+ font-family: Bodoni MT, Bodoni 72, serif
+}
+ 
+h1, h2 {
+ text: 16 bold;
+}
+
+p {
+ text: 14px;
+}
+
+div.footer{
+ color: #212121;
+ text-align: center;
+ padding: 10px 5px 15px 20px;
+ text-size: 10px;
+}
+
+.image {
+ max-width:100% ;
+ height: auto;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%
+ padding: 10px 5px 15px 20px;
+ }
+ 
+.img-caption {
+ font-family: Bodoni MT, Bodoni 72, serif;
+ color: #212121;
+ display: block;
+ text-align: center;
+ }
+ 
+dl.list-text{
+ color: #212121;
+ content-align: left;
+ padding: 10px 5px;
+ font-family: Bodoni MT, Bodoni 72, serif;
+ font-weight: normal;
+}
+
+li.early-days {
+ color: darkslategray;
+ font-weight: bold;
+}
+li.self-titled-era {
+ color: teal;
+ font-weight: bold;
+}
+li.fearless-era{
+ color:goldenrod;
+ font-weight: bold;
+ }
+li.speak-now-era {
+ color: mediumorchid;
+ font-weight: bold;
+}
+li.red-era {
+ color: firebrick;
+ font-weight: bold;
+}
+li.eighty-nine-era {
+ color: darkmagenta;
+ font-weight: bold;
+}
+
+li.reputation-era {
+ color: dimgray;
+ font-weight: bold;
+}
+li.lover-era {
+ color:mediumvioletred;
+ font-weight: bold;
+}
+li.folklore-evermore-era {
+ color:peru;
+ font-weight: bold;
+ }
+li.taylors-version {
+ color:darkslategray;
+ font-weight: bold;
+}
+li.midnights-era {
+ color: midnightblue;
+ font-weight: bold;
+}
