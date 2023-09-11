@@ -33,4 +33,4 @@ Build an app that is functionally similar to [this example](https://tribute-page
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Listen to My Favorite Taylor Swift Songs on Spotify
-(![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white))[https://open.spotify.com/playlist/2v77Dq8whATnd2gQJO4pIf?si=8dab51f992944935]
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/2v77Dq8whATnd2gQJO4pIf?si=8dab51f992944935)
