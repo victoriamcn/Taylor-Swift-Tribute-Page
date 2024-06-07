@@ -1,3 +1,9 @@
+# Note from Victoria
+
+In December 2022, I was curious about software and started [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Design course. This project, along with the [Penguin-Animation project](https://github.com/victoriamcn/Penguin-Animation), are apart of that course. Long story short, these projects are what started my tech journey. While I don't update them and they are static one page sites written in vanilla HTML and CSS, I keep them here as a testament to how far I've come.
+
+---
+
 # Taylor Swift Tribute Page
 
 ## Preview
